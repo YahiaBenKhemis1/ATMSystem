@@ -40,16 +40,6 @@ Instead, it focuses on well-structured functions, clear data organization, and r
 
 ---
 
-## Project Structure
-ATM-System/
-├── ATMSys.cpp
-├── Clients.txt
-├── README.md
-├── ATMSys.vcxproj
-└── ATMSys.vcxproj.filters
-
----
-
 ## Data Management
 
 All client data is stored in a text file (`Clients.txt`) and managed using `struct`-based records.  
