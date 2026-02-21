@@ -1,4 +1,4 @@
-![Main Menu](ATMSystem/SystemPhoto.png)
+![Main Menu](../ATMSystem/SystemPhoto.png)
 # 🏧 ATM Management System — C++
 
 ## Overview
