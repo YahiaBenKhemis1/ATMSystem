@@ -1,4 +1,6 @@
+![Login Screen](SystemPhoto1.png)
 ![Main Menu](SystemPhoto.png)
+
 # 🏧 ATM Management System — C++
 
 ## Overview
