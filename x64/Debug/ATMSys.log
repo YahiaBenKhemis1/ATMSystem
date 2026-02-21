@@ -1,0 +1,4 @@
+﻿  ATMSys.cpp
+C:\Users\hp\Desktop\Course8\ATMSysExten2\ATMSys\ATMSys\ATMSys.cpp(40,26): warning C4267: '=' : conversion de 'size_t' en 'short', perte possible de données
+C:\Users\hp\Desktop\Course8\ATMSysExten2\ATMSys\ATMSys\ATMSys.cpp(278,1): warning C4715: 'DepositBalanceToClientByAccountNumber' : les chemins de contrôle ne retournent pas tous une valeur
+  ATMSys.vcxproj -> C:\Users\hp\Desktop\Course8\ATMSysExten2\ATMSys\x64\Debug\ATMSys.exe
