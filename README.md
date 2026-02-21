@@ -1,3 +1,4 @@
+![Main Menu](ATMSystem/SystemPhoto.png)
 # 🏧 ATM Management System — C++
 
 ## Overview
@@ -19,6 +20,7 @@ It was developed as a learning project to strengthen my understanding of core C+
 - Password update
 - Secure logout
 - Input validation and error handling
+
 
 ---
 
@@ -62,3 +64,5 @@ The application reads, validates, updates, and saves this data during each opera
 - Input validation to prevent incorrect inputs
 
 Note: This project is designed for educational purposes and does not implement advanced cryptographic security.
+
+
